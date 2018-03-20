@@ -1,3 +1,3 @@
 # Ejerciciodelaclase
-# NOMBRE
+# Nombre
 ## Gerardo Ariel Erazo Landos
